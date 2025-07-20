@@ -121,5 +121,5 @@ This project was developed as part of an internal initiative during the internsh
 
 ## Contact
 
-For queries or collaboration opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/mayankojha2228/) or GitHub.
+For queries or collaboration opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/mayankojha2228/) or [LinkedIn](https://www.linkedin.com/in/mayankojha2228/).
 
